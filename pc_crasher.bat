@@ -1,5 +1,3 @@
 : crasher      
-
 Start
-
 goto crasher
